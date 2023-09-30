@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: xxx-large;
+    font-weight: 900;
+}
+
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+.text{
+    font-weight: 400;
+    background-color: blue;
+}
+
+ul.ingredients{
+    background-color: blueviolet;
+}
+
+.list{
+    font-weight: normal;
+    font-size: small;
+    background-color: lightblue;
+}
